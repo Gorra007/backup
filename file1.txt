@@ -1,3 +1,0 @@
-Line from host.
-Line from container c1.
-Line from c2.
